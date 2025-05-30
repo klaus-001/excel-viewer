@@ -2,6 +2,8 @@
 
 This project is an **Excel Viewer** application that allows users to enter data and view spreadsheet tables. It supports real-time updates and provides a simple interface for interacting with Excel files. The tool is ideal for users who need to make quick data entries without opening Excel itself.
 
+![App Screenshot](screenshot.png)
+
 ## Features
 
 - **Data Entry Form** - The Excel Viewer includes a data entry section where users can insert rows of information — such as name, age, subscription, and employment — directly into the Excel file, enabling quick and easy data input.
@@ -25,7 +27,7 @@ git clone https://github.com/klaus-001/excel-viewer.git
 2. Navigate to the directory:
 
 ```bash
-cd "PROJECT DIRECTORY"
+cd excel-viewer
 ```
 
 3. Install dependencies:
